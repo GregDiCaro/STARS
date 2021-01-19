@@ -1,3 +1,3 @@
 # STARS
 
-https://gregdicaro.github.io/STARS/.
+https://gregdicaro.github.io/STARS/
